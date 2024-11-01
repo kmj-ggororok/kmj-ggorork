@@ -1,4 +1,4 @@
-<h1 align="center"> kmj-ggorork</h1>
+<h1 align="center"> minji kim </h1>
 
 <h3>🏫 Major</h3>
 - 
