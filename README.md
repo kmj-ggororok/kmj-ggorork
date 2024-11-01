@@ -4,18 +4,19 @@
   - **학력** : 동국대학교 경영학과 전공, 데이터사이언스sw 연계전공 </br>
   - **자격증** : 컴퓨터활용능력 1급, SQL 개발자 (SQLD) </br>
   - **어학** : 토익()
+</br>
 
-<h3>💁🏻‍♀️ Activities</h3>
+### 💁🏻‍♀️ Activities
 
-<h3>🏆 Award</h3>
+### 🏆 Award
 
-<h3>🖥️ Project</h3>
-
-
-<h3>🤗목표</h3>
+### 🖥️ Project
 
 
-<h3>🛠사용언어</h3>
+### 🤗목표
+
+
+### 🛠사용언어
 <div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
