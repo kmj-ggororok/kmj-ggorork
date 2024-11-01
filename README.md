@@ -1,6 +1,6 @@
 <h1 align="center"> Minji Kim </h1>
 
-## ⭐Profile
+### ⭐Profile
   - **학력** : 동국대학교 경영학과 전공, 데이터사이언스sw 연계전공 </br>
   - **자격증** : 컴퓨터활용능력 1급, SQL 개발자 (SQLD) </br>
   - **어학** : 토익()
