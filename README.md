@@ -1,14 +1,14 @@
 <h1 align="center"> Minji Kim </h1>
 
-<h2>⭐Profile </h2>
+<h3>⭐Profile </h3>
   - 동국대학교 경영학과 전공, 데이터사이언스sw 연계전공 </br>
   - 자격증
 
-<h2>💁🏻‍♀️ Activities</h2>
+<h3>💁🏻‍♀️ Activities</h3>
 
-<h2>🏆 Award</h2>
+<h3>🏆 Award</h3>
 
-<h2>🖥️ Project</h2>
+<h3>🖥️ Project</h3>
 
 
 <h3>🤗목표</h3>
