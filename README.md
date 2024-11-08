@@ -28,7 +28,7 @@
 2024 </br>
 - 신한 빅데이터 해커톤 제 3회(신한라이프) (2024.) </br> 
 </tab> - ㅇㅇ </br>
-- 소중한 사람에게 선물할 꽃 추천 웹 서비스 (2024.05.18~07.20)   [Fiurinee🌸](https://github.com/Fiurinee-Tave) <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;</br>  
+- 소중한 사람에게 선물할 꽃 추천 웹 서비스 (2024.05.18~07.20)   [Fiurinee🌸](https://github.com/Fiurinee-Tave) <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;</br>
 </tab> - AI/모델링 파트장 </br>
 </tab> - 꽃 데이터 및 컬러팔레트 크롤링 및 데이터 구축 / 꽃 추천 시스템 모델링 / 성능 평가 / 모델 배포 </br>
 
