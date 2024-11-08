@@ -31,6 +31,10 @@
 - **소중한 사람에게 선물할 꽃 추천 웹 서비스** (2024.05.18~07.20)   [Fiurinee🌸](https://github.com/Fiurinee-Tave) <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </br>
 </tab> - AI/모델링 파트장 </br>
 </tab> - 꽃 데이터 및 컬러팔레트 크롤링 및 데이터 구축 / 꽃 추천 시스템 모델링 / 성능 평가 / 모델 배포 </br>
+- **플로깅 시급 지역 군집화를 통한 전용 수거함 우선 입지 선정** (2024.05.15~06.03)   [EnvironmentalData
+🏃🏻‍♀️](https://github.com/kmj-ggororok/EnvironmentalData) <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</tab> - 팀 리더 </br>
+</tab> - 데이터 수집 및 통합 / 전처리 및 EDA / 군집화 / 입지선정(요인분석, MCLP) </br>
 
 **2023** </br>
 - **비건 화장품 추천 시스템** (2023.11.18~24.01.27)   [보다 더💄](https://github.com/kmj-ggororok/TAVE12_Project) <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </br>
