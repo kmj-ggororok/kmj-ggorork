@@ -60,7 +60,7 @@
 </br>
 
 <h3>저를 더 알고싶다면</h3>
-<a href="https://velog.io/@987412563">
+<a href="https://velog.io/@ggororok/posts">
     <img src="http://img.shields.io/badge/Tech Blog-00D182?style=flat&logo=Emby&logoColor=white&link=https://velog.io/@987412563"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
