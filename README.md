@@ -32,6 +32,7 @@
 </tab> - AI/모델링 파트장 </br>
 </tab> - 꽃 데이터 및 컬러팔레트 크롤링 및 데이터 구축 / 꽃 추천 시스템 모델링 / 성능 평가 / 모델 배포 </br>
 </br>
+
 **2023** </br>
 - **비건 화장품 추천 시스템** (2023.11.18~24.01.27)   [보다 더💄](https://github.com/kmj-ggororok/TAVE12_Project) <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </br>
 </tab> - 올리브영 웹크롤링 / TF-IDF, BERT / 제품 군집화(KMeans) 및 라벨링 </br>
