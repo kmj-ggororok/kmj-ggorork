@@ -25,7 +25,7 @@
 </br>
 
 ### 🖥️ Project
-2024 </br>
+**2024** </br>
 - **신한 빅데이터 해커톤 제 3회(신한라이프)** (2024.) </br> 
 </tab> - ㅇㅇ </br>
 - **소중한 사람에게 선물할 꽃 추천 웹 서비스** (2024.05.18~07.20)   [Fiurinee🌸](https://github.com/Fiurinee-Tave) <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;</br>
