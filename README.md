@@ -18,7 +18,6 @@
 - (2024.01~2024.02) 네이버 부스트코스 코칭 스터디 [Data Science Projects 2024] </br>
 </br>
 
-
 ### 🏆 Award
 🏅 **TAVE 13기 후반기 프로젝트 - 최우수상(2등)**
 - [MODEL/NLP,추천] 소중한 사람에게 선물할 꽃 추천 웹 서비스 [Fiurinee🌸](https://github.com/Fiurinee-Tave)  </br>
@@ -41,10 +40,11 @@
 **2023** </br>
 + **비건 화장품 추천 시스템** (2023.11.18~24.01.27) [보다 더💄](https://github.com/kmj-ggororok/TAVE12_Project)  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </br>
   + 올리브영 웹크롤링 / TF-IDF, BERT / 제품 군집화(KMeans) 및 라벨링 </br>
-
+</br>
 
 ### 🤗목표
 
+</br>
 
 ### 🛠사용언어 및 라이브러리
 <div>
@@ -57,6 +57,7 @@
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
+</br>
 
 <h3>저를 더 알고싶다면</h3>
 <a href="https://velog.io/@987412563">
