@@ -21,6 +21,8 @@
 ### 🏆 Award
 🏅 **TAVE 13기 후반기 프로젝트 - 최우수상(2등)**
 - [MODEL/NLP,추천] 소중한 사람에게 선물할 꽃 추천 웹 서비스 [Fiurinee🌸](https://github.com/Fiurinee-Tave)  </br>
+🏅 **ㅅ,ㄴ힌**
+- [MODEL/NLP,추천] 소중한 사람에게 선물할 꽃 추천 웹 서비스 [Fiurinee🌸](https://github.com/Fiurinee-Tave)  </br>
 </br>
 
 ### 🖥️ Project
