@@ -24,7 +24,7 @@
 - [MODEL/NLP,추천] 소중한 사람에게 선물할 꽃 추천 웹 서비스 [Fiurinee🌸](https://github.com/Fiurinee-Tave)  </br>
 
 🏅 **제3회 신한금융그룹 빅데이터 해커톤(결선)**
-- 건강을 더하다 +he(the) 건강 서비스 [Shinhan_Bigdata<img src="https://github.com/user-attachments/assets/09a9e704-12f4-4fdc-aa73-a921de5e9432" alt="신한마크" width="20" height="20">](https://github.com/kmj-ggororok/Shinhan_Bigdata) </br>
+- 건강을 더하다 +he(the) 건강 서비스 [Shinhan_Bigdata<img src="https://github.com/user-attachments/assets/09a9e704-12f4-4fdc-aa73-a921de5e9432" alt="신한마크" width="15" height="15">](https://github.com/kmj-ggororok/Shinhan_Bigdata) </br>
 </br>
 
 ### 🖥️ Project
