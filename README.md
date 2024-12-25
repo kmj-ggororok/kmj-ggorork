@@ -29,7 +29,7 @@
 
 ### 🖥️ Project
 **2024** </br>
-+ **신한 빅데이터 해커톤 제 3회(신한라이프)** (2024.10.07~11.21) [Shinhan_Bigdata<img src="https://github.com/user-attachments/assets/09a9e704-12f4-4fdc-aa73-a921de5e9432" alt="신한마크" width="17" height="17">](https://github.com/kmj-ggororok/Shinhan_Bigdata)  </br>
++ **신한 빅데이터 해커톤 제 3회(신한라이프)** (2024.10.07~11.21) [Shinhan_Bigdata<img src="https://github.com/user-attachments/assets/09a9e704-12f4-4fdc-aa73-a921de5e9432" alt="신한마크" width="17" height="17">](https://github.com/kmj-ggororok/Shinhan_Bigdata) <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>  </br>
   + 팀 리더
   + 트렌드, 타사, 자사 분석
   + 데이터 분석(전원)
